@@ -1,2 +1,7 @@
 .DS_Store
-
+.env
+*.pyc
+**pycache**/
+.ipynb_checkpoints/
+config/bedrock_config.json
+bedrock-learning-venv/
